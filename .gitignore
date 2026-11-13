@@ -1,5 +1,30 @@
-_site
-.sass-cache
+# Bundler cache
+.bundle
+vendor
+
+# Jekyll cache
 .jekyll-cache
 .jekyll-metadata
-vendor
+_site
+
+# RubyGems
+*.gem
+
+# NPM dependencies
+node_modules
+package-lock.json
+
+# IDE configurations
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+
+# Misc
+# _sass/vendors 와 assets/js/dist 는 GitHub Pages 배포에 필요하므로 추적함 (npm run build 결과물)
+
+# Hidden system files
+*~
+.DS_Store
+Thumbs.db
