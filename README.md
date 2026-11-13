@@ -9,6 +9,10 @@ A study blog on networking and infrastructure.
 This blog is built with the [Chirpy][chirpy] theme for [Jekyll][jekyll],
 created by Cotes Chung and licensed under the [MIT License](LICENSE).
 
+The avatar and favicon feature **Ggamja (깜자)**, my favorite character,
+created by **조빔스튜디오**. All rights to the character and its artwork belong to
+the original artist, and they are not covered by the MIT License or CC BY 4.0.
+
 Unless otherwise noted, the blog posts are licensed under
 [CC BY 4.0][cc-by] by the author.
 
